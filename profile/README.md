@@ -28,4 +28,4 @@ and [**ownCloud Notes**](https://github.com/owncloud/notes).
 
 ![Screenhot](https://raw.githubusercontent.com/pbek/QOwnNotes/develop/screenshots/screenshot.png)
 
-If you are looking for the app itself: [QOwnNotes GitHub](https://github.com/pbek/QOwnNotes)
+If you are looking for the repository of the app itself: [QOwnNotes GitHub](https://github.com/pbek/QOwnNotes)
