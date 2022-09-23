@@ -26,4 +26,6 @@ and **todo list manager** for **GNU/Linux**, **macOS** and **Windows**,
 that works together with [**Nextcloud Notes**](https://github.com/Nextcloud/notes)
 and [**ownCloud Notes**](https://github.com/owncloud/notes).
 
+![Screenhot](https://raw.githubusercontent.com/pbek/QOwnNotes/develop/screenshots/screenshot.png)
+
 If you are looking for the app itself: [QOwnNotes GitHub](https://github.com/pbek/QOwnNotes)
